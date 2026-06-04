@@ -1,0 +1,2053 @@
+{
+  "duration": 2684.862,
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Bonjour à tous et à toutes, j'espère que vous allez bien donc on se retrouve aujourd'hui pour la"
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 8.32,
+      "text": "séance numéro 8 et on va parler de stratégie SEO et GEO. Donc ça a été une séance extrêmement"
+    },
+    {
+      "id": 3,
+      "start": 8.32,
+      "end": 14.4,
+      "text": "importante, pourquoi ? Parce que ça va planifier du coup toute notre stratégie de contenu au niveau"
+    },
+    {
+      "id": 4,
+      "start": 14.4,
+      "end": 19.6,
+      "text": "de notre site internet pour qu'on se positionne du coup correctement sur Google et sur les LLM."
+    },
+    {
+      "id": 5,
+      "start": 19.6,
+      "end": 25.04,
+      "text": "Donc normalement après la séance numéro 7, ton QG d'organisation est monté et il est"
+    },
+    {
+      "id": 6,
+      "start": 25.04,
+      "end": 29.76,
+      "text": "directement connecté à Corework. Donc tu as bien aussi ton étude de marché dans le dossier"
+    },
+    {
+      "id": 7,
+      "start": 29.76,
+      "end": 35.84,
+      "text": "01 et ta marque avec le logo et bien dans le dossier 0Brain. Donc si j'ouvre mon business"
+    },
+    {
+      "id": 8,
+      "start": 35.84,
+      "end": 42.88,
+      "text": "dans 0Brain, j'aimais mon logo avec du coup le brain voice. J'ai ensuite dans mon étude de marché"
+    },
+    {
+      "id": 9,
+      "start": 42.88,
+      "end": 50.4,
+      "text": "les trois fichiers donc de mon étude. Donc maintenant je peux passer du coup à la partie du coup"
+    },
+    {
+      "id": 10,
+      "start": 50.4,
+      "end": 56.32,
+      "text": "stratégie SEO et GEO. Pour mettre un petit peu de contexte, le SEO c'est tout simplement"
+    },
+    {
+      "id": 11,
+      "start": 56.4,
+      "end": 61.92,
+      "text": "apparaître sur Google quant à SIPTAP une requête. Donc la requête ça peut être très bien consultant"
+    },
+    {
+      "id": 12,
+      "start": 61.92,
+      "end": 68.56,
+      "text": "IAPME. Donc si je fais consultant IAPME, là on a la partie sponsorisée donc c'est des ads. Donc les"
+    },
+    {
+      "id": 13,
+      "start": 68.56,
+      "end": 73.56,
+      "text": "gens ont payé pour se positionner sur cette partie là. C'est un système d'enchaire. Nous"
+    },
+    {
+      "id": 14,
+      "start": 73.56,
+      "end": 78.24,
+      "text": "c'est pas ce qui nous intéresse. Nous ce qu'on souhaite c'est faire de l'organique. Donc se"
+    },
+    {
+      "id": 15,
+      "start": 78.24,
+      "end": 83.44,
+      "text": "positionner gratuitement sur Google grâce à notre contenu. Donc lui par exemple c'est"
+    },
+    {
+      "id": 16,
+      "start": 83.44,
+      "end": 90.24,
+      "text": "ce qu'il a fait. Il est promis sur cette requête là. Donc c'est top. Nous on veut la même chose que"
+    },
+    {
+      "id": 17,
+      "start": 90.24,
+      "end": 97.84,
+      "text": "nous. Ce qu'on souhaite c'est tout simplement quand un patron ou une entreprise tap cette demande,"
+    },
+    {
+      "id": 18,
+      "start": 97.84,
+      "end": 104.4,
+      "text": "il voit notre agence ou notre profil expert freelance. Donc par exemple moi comme on a vu"
+    },
+    {
+      "id": 19,
+      "start": 104.4,
+      "end": 111.36,
+      "text": "ma SIP c'est pas toujours les restaurants et que je vends des chatbots. Chatbot il y a pour"
+    },
+    {
+      "id": 20,
+      "start": 111.44,
+      "end": 117.96,
+      "text": "restaurant. Imagine mon prospect Apsa. Comme on peut voir il y a FaceBotI. Donc lui il est positionné sur"
+    },
+    {
+      "id": 21,
+      "start": 117.96,
+      "end": 122.64,
+      "text": "cette requête. Et nous ce qu'on cherche à faire c'est le remplacer. On veut qu'il soit deuxième et"
+    },
+    {
+      "id": 22,
+      "start": 122.64,
+      "end": 128.88,
+      "text": "nous premiers. Donc normalement si je travaille bien derrière, vous pourrez voir très bien d'ici"
+    },
+    {
+      "id": 23,
+      "start": 128.88,
+      "end": 131.56,
+      "text": "deux trois mois parce qu'il va prendre du temps encore une fois mais on va le faire en"
+    },
+    {
+      "id": 24,
+      "start": 131.56,
+      "end": 137.24,
+      "text": "automatique. Donc on va gagner du temps. On aimerait que à la place soit lui ce soit"
+    },
+    {
+      "id": 25,
+      "start": 137.24,
+      "end": 143.12,
+      "text": "reste à lui. Du coup mon agence. Donc si je clique dessus avec qu'il a une page, ça m'a fait peur"
+    },
+    {
+      "id": 26,
+      "start": 143.12,
+      "end": 149.88,
+      "text": "son bruit mais on voit qu'il a une page d'ailleurs d'arrière. Assistance il y a automatisé pour votre"
+    },
+    {
+      "id": 27,
+      "start": 149.88,
+      "end": 156.6,
+      "text": "restaurant. Il est positionné sur plusieurs mots-clits et à l'intérieur d'une page il peut avoir"
+    },
+    {
+      "id": 28,
+      "start": 156.6,
+      "end": 162.56,
+      "text": "plusieurs requêtes. Donc là par exemple assistance il y a automatisé pour votre restaurant. Donc"
+    },
+    {
+      "id": 29,
+      "start": 162.6,
+      "end": 172.85,
+      "text": "ça c'est une requête. Donc si je fais assistance il y a le restaurant. Donc là je recopie son h2."
+    },
+    {
+      "id": 30,
+      "start": 172.85,
+      "end": 181.97,
+      "text": "Donc le mot-clit et la requête normalement il doit être positionné je sais pas il vaut une"
+    },
+    {
+      "id": 31,
+      "start": 181.97,
+      "end": 192.22,
+      "text": "doux mais peut-être à la page numéro 2 ou 3 je sais pas. Là on peut voir qu'il est mal positionné"
+    },
+    {
+      "id": 32,
+      "start": 192.22,
+      "end": 200.14,
+      "text": "au niveau de cette requête. Voilà là on l'a retrouvé Chatbotia pour le restaurant donc au niveau"
+    },
+    {
+      "id": 33,
+      "start": 200.14,
+      "end": 205.54,
+      "text": "de cette requête il est positionné à page numéro 4. Nous notre objectif principal c'est à chaque"
+    },
+    {
+      "id": 34,
+      "start": 205.54,
+      "end": 211.34,
+      "text": "fois d'être positionné sur la page numéro 1. Et pour ça c'est simple va falloir soit créer des"
+    },
+    {
+      "id": 35,
+      "start": 211.34,
+      "end": 218.58,
+      "text": "articles ou soit avoir des pages bien brandées avec des bons mots-clits. Donc encore une fois"
+    },
+    {
+      "id": 36,
+      "start": 218.7,
+      "end": 226.18,
+      "text": "le plus important c'est pas forcément d'avoir un copyright. Mais d'avoir une utilisation"
+    },
+    {
+      "id": 37,
+      "start": 226.18,
+      "end": 233.54,
+      "text": "stratégique des mots qu'on va utiliser pour qu'on se positionne un peu surtout les requêtes que"
+    },
+    {
+      "id": 38,
+      "start": 233.54,
+      "end": 239.94,
+      "text": "les utilisateurs peuvent chercher sur Google. Donc voilà pour la partie SEO. Donc on a aussi"
+    },
+    {
+      "id": 39,
+      "start": 239.94,
+      "end": 244.06,
+      "text": "une partie GO. Ça fait pas très longtemps qu'on m'en parle parce que tout simplement"
+    },
+    {
+      "id": 40,
+      "start": 244.06,
+      "end": 248.7,
+      "text": "l'objectif c'est d'apparaître dans les réponses de ChatGPT et perplexity, Gemini,"
+    },
+    {
+      "id": 41,
+      "start": 248.7,
+      "end": 257.26,
+      "text": "Google AI. Donc si derrière je récupère la même demande. Juste ici, assistant SIGA pour restaurant,"
+    },
+    {
+      "id": 42,
+      "start": 257.26,
+      "end": 270.01,
+      "text": "je vais sur ChatGPT. Si je lui demande à trouvent moi une assistance il y a restaurant. Voilà"
+    },
+    {
+      "id": 43,
+      "start": 270.01,
+      "end": 275.13,
+      "text": "une requête toute simple. Lui va rechercher sur le web. Du coup il va trouver des sources"
+    },
+    {
+      "id": 44,
+      "start": 276.13,
+      "end": 283.81,
+      "text": "et il y a pour répondre au client ChatBot WhatsApp site. On a la assistance. Donc si je clique sur le"
+    },
+    {
+      "id": 45,
+      "start": 283.81,
+      "end": 292.35,
+      "text": "lien que ChatGPT m'a donné, c'est un logisème de ChatBot SIA français positionné comme"
+    },
+    {
+      "id": 46,
+      "start": 292.35,
+      "end": 299.35,
+      "text": "un assistant digital. Donc encore une fois, là je suis un restaurateur, j'ai envoyé cette demande"
+    },
+    {
+      "id": 47,
+      "start": 299.35,
+      "end": 303.35,
+      "text": "à ChatGPT pour avoir des informations. Ça peut ramener du business, du quoi c'est"
+    },
+    {
+      "id": 48,
+      "start": 303.35,
+      "end": 309.31,
+      "text": "entreprise. Parce que je peux très bien le contacter parce que son off m'intéresse. Et du"
+    },
+    {
+      "id": 49,
+      "start": 309.31,
+      "end": 315.71,
+      "text": "coup c'est le même objectif que pour le SIO. On va chercher à se positionner en numéro. Donc si"
+    },
+    {
+      "id": 50,
+      "start": 315.71,
+      "end": 327.72,
+      "text": "je mets par exemple le nom de mon agence, tu peux me dire c'est quoi cette agence?"
+    },
+    {
+      "id": 51,
+      "start": 327.72,
+      "end": 340.6,
+      "text": "Borgé Cremal. Si je lui revois ça, on voit que derrière je lui ai donné vision ya c'est"
+    },
+    {
+      "id": 52,
+      "start": 340.6,
+      "end": 345.16,
+      "text": "une petite agence d'automatisation pour PM. C'est pas une très grosse boîte connue. Donc là"
+    },
+    {
+      "id": 53,
+      "start": 345.16,
+      "end": 348.96,
+      "text": "l'objectif encore une fois, c'est moi j'améliore mon positionnement. Donc ce qui serait bien,"
+    },
+    {
+      "id": 54,
+      "start": 348.96,
+      "end": 353.76,
+      "text": "c'est que voilà je me positionne sur tous les mots-clés quand un client fait par exemple une"
+    },
+    {
+      "id": 55,
+      "start": 353.76,
+      "end": 367.48,
+      "text": "recherche. Trouve-moi une agence d'automatisation ya. Stop, là il fait une recherche sur le web."
+    },
+    {
+      "id": 56,
+      "start": 368.48,
+      "end": 373.96,
+      "text": "Donc là c'est 60 qui passent en premier. Donc imaginons cette requête-là elle est tapée"
+    },
+    {
+      "id": 57,
+      "start": 373.96,
+      "end": 383.48,
+      "text": "mille fois tous les mois et qu'ensuite derrière, c'est mille fois 6 ans qui arrivent en premier. Tout"
+    },
+    {
+      "id": 58,
+      "start": 383.48,
+      "end": 389.16,
+      "text": "simplement peut-être sur mille, il y aura 4-5 personnes qui vont contacter cette agence-là et du"
+    },
+    {
+      "id": 59,
+      "start": 389.16,
+      "end": 397.84,
+      "text": "coup prendre un de leur service. Et pour vous donner l'ordre d'idée, moi le GEO m'a permis de bouquer"
+    },
+    {
+      "id": 60,
+      "start": 397.84,
+      "end": 405.68,
+      "text": "5 clients en tout et du coup de m'emmener plus de business tout simplement parce que mon agence"
+    },
+    {
+      "id": 61,
+      "start": 405.68,
+      "end": 412.16,
+      "text": "était bien positionnée par rapport à un booklet. Et en plus de ça à la différence du SEO c'est"
+    },
+    {
+      "id": 62,
+      "start": 412.16,
+      "end": 420.44,
+      "text": "des prospects qui sont directement intéressés parce qu'ils font des recherches au niveau du"
+    },
+    {
+      "id": 63,
+      "start": 420.44,
+      "end": 428.76,
+      "text": "coup de l'automatisation et de l'IA. Pour vous donner un petit exemple, j'ai un client qui m'avait"
+    },
+    {
+      "id": 64,
+      "start": 428.76,
+      "end": 434.48,
+      "text": "contacté du coup grâce au GEO qui m'avait trouvé sur chadgbt. Au départ il faisait une"
+    },
+    {
+      "id": 65,
+      "start": 434.48,
+      "end": 442.08,
+      "text": "demande simple, voilà je suis dans le secteur de l'hôtellerie, j'aimerais automatiser certaines"
+    },
+    {
+      "id": 66,
+      "start": 442.08,
+      "end": 447.64,
+      "text": "tâches, comment je pourrais faire. Donc il a lui répondu etc et ensuite il a dit est-ce que je peux"
+    },
+    {
+      "id": 67,
+      "start": 447.64,
+      "end": 455.32,
+      "text": "proposer 5 agences qui sont spécialisées dans ça et moi mon agence elle est apparue et du"
+    },
+    {
+      "id": 68,
+      "start": 455.32,
+      "end": 460.0,
+      "text": "coup il m'a appelé et ensuite j'ai réussi à lui proposer un service par rapport à sa demande."
+    },
+    {
+      "id": 69,
+      "start": 460.0,
+      "end": 466.84,
+      "text": "Donc voilà les bénéfices que ça peut faire et encore une fois un client va vous ramener probablement"
+    },
+    {
+      "id": 70,
+      "start": 466.84,
+      "end": 472.24,
+      "text": "5 ou 10 automatisations si vous faites bien le travail. Pour vous reprendre le même exemple ce"
+    },
+    {
+      "id": 71,
+      "start": 472.24,
+      "end": 477.24,
+      "text": "client que j'ai bouqué grâce au GEO m'a pris par la suite 3 automatisations supplémentaires"
+    },
+    {
+      "id": 72,
+      "start": 477.24,
+      "end": 483.96,
+      "text": "donc avec un panier moyen de 2400€. Donc ça fait à peu près, on est dans le 17-18"
+    },
+    {
+      "id": 73,
+      "start": 484.08,
+      "end": 490.76,
+      "text": "plus frein de maintenance je suis à 400€ à peu près. Donc voilà c'est pour ça que ça va être"
+    },
+    {
+      "id": 74,
+      "start": 490.76,
+      "end": 498.04,
+      "text": "important d'aller se positionner sur le SEO et le GEO. Donc voilà un petit peu la différence entre"
+    },
+    {
+      "id": 75,
+      "start": 498.04,
+      "end": 505.52,
+      "text": "les deux. Donc en gros on va utiliser Cloudcode et il va nous livrer 3 fichiers. Donc le fichier"
+    },
+    {
+      "id": 76,
+      "start": 505.68,
+      "end": 514.72,
+      "text": "strategy.md, le fichier strategy.xlsx et le fichier HTML pour une partie un peu plus visuelle. On va"
+    },
+    {
+      "id": 77,
+      "start": 514.72,
+      "end": 520.88,
+      "text": "pouvoir cadre des sous gamins pour analyser constamment quand on va faire le blog automatique et le"
+    },
+    {
+      "id": 78,
+      "start": 520.88,
+      "end": 527.72,
+      "text": "copywriting de notre page pour votre site web. Donc maintenant on va avoir besoin aussi d'une"
+    },
+    {
+      "id": 79,
+      "start": 527.72,
+      "end": 532.12,
+      "text": "clé API pour cette séance là. Pour les gens qui ne savent pas une clé API c'est un peu comme un"
+    },
+    {
+      "id": 80,
+      "start": 532.24,
+      "end": 537.04,
+      "text": "mot de passe qu'on va donner directement à Cloudcode qui va lui permettre d'avoir un accès"
+    },
+    {
+      "id": 81,
+      "start": 537.04,
+      "end": 543.36,
+      "text": "de quoi un service extérieur à ma place. Donc nous ce qu'on va faire c'est qu'on va donner la"
+    },
+    {
+      "id": 82,
+      "start": 543.36,
+      "end": 551.44,
+      "text": "API à SEO ranking. Donc c'est l'outil qu'on va utiliser pour l'audit et la stratégie SEO et"
+    },
+    {
+      "id": 83,
+      "start": 551.44,
+      "end": 557.36,
+      "text": "GEO. Je vais vous donner une petite règle de base normalement ce qu'on va faire on ne peut pas"
+    },
+    {
+      "id": 84,
+      "start": 557.36,
+      "end": 564.2,
+      "text": "le faire sur un client. Donc nous on va récupérer la clé API on va la donner en dur à Cloudcode et"
+    },
+    {
+      "id": 85,
+      "start": 564.2,
+      "end": 569.0,
+      "text": "ça faut sûrement pas le faire si vous travaillez avec un client. Pourquoi ? Parce que tout simplement"
+    },
+    {
+      "id": 86,
+      "start": 569.0,
+      "end": 574.72,
+      "text": "en fait si vous ne changez pas le mot de passe tout le monde peut y avoir accès. Suffit que Cloudcode"
+    },
+    {
+      "id": 87,
+      "start": 574.72,
+      "end": 582.76,
+      "text": "fasse une erreur et duve de la clé. Alors vous allez tout simplement être victime sûrement"
+    },
+    {
+      "id": 88,
+      "start": 582.76,
+      "end": 589.64,
+      "text": "de hacking au sein de l'entreprise et derrière ça peut être très très compliqué pour vous par"
+    },
+    {
+      "id": 89,
+      "start": 589.64,
+      "end": 597.12,
+      "text": "la suite avec la boîte. Encore une fois pourquoi nous on la met directement en dur tout simplement"
+    },
+    {
+      "id": 90,
+      "start": 597.12,
+      "end": 602.28,
+      "text": "parce qu'on va la jeter. On va l'utiliser qu'une fois. Dès qu'il aura fini l'audit et la stratégie"
+    },
+    {
+      "id": 91,
+      "start": 602.28,
+      "end": 614.04,
+      "text": "on va supprimer la clé et puis plus jamais l'utiliser. Pourquoi j'utilise l'outil SEO ranking"
+    },
+    {
+      "id": 92,
+      "start": 614.04,
+      "end": 619.44,
+      "text": "tout simplement parce que c'est le meilleur. Comme je vous ai dit en la fois je travaillais deux ans"
+    },
+    {
+      "id": 93,
+      "start": 619.44,
+      "end": 628.32,
+      "text": "pour une agence SEO nommée SEO du coup. Et pour teller un mordidé je faisais des audites en"
+    },
+    {
+      "id": 94,
+      "start": 628.32,
+      "end": 635.72,
+      "text": "une semaine et la stratégie de deux semaines. C'était ça mon travail. Faire audite et stratégie et"
+    },
+    {
+      "id": 95,
+      "start": 635.72,
+      "end": 640.36,
+      "text": "du coup on le facturait au client en moyenne pour les deux donc l'audit c'est un peu moins cher."
+    },
+    {
+      "id": 96,
+      "start": 640.36,
+      "end": 649.08,
+      "text": "2500 pour l'audit et pour la stratégie c'était en peu près 4000. Et du coup nous ce qu'on va"
+    },
+    {
+      "id": 97,
+      "start": 649.08,
+      "end": 656.76,
+      "text": "faire c'est exactement pareil mais en full automatique et gratuitement. Donc si derrière vous voulez"
+    },
+    {
+      "id": 98,
+      "start": 656.76,
+      "end": 662.12,
+      "text": "vous faire passer après pour un expert SEO, vous voulez vendre des audites ou des stratégies vous"
+    },
+    {
+      "id": 99,
+      "start": 662.12,
+      "end": 667.76,
+      "text": "pouvez. Juste avec ce que je vais vous montrer sur cette séance et vous allez voir c'est pas bien"
+    },
+    {
+      "id": 100,
+      "start": 667.76,
+      "end": 674.6,
+      "text": "complexe encore une fois. Le but ça va être utiliser Claude lui donner un prompt et ensuite"
+    },
+    {
+      "id": 101,
+      "start": 674.6,
+      "end": 679.32,
+      "text": "tu vas travailler et après on va voir le résultat. Si le résultat n'est pas convaincant on"
+    },
+    {
+      "id": 102,
+      "start": 679.44,
+      "end": 685.88,
+      "text": "améliore. Donc comme on va faire maintenant on va aller récupérer du coup notre clé appellé sur"
+    },
+    {
+      "id": 103,
+      "start": 685.88,
+      "end": 693.68,
+      "text": "SEO ranking. Donc pour ça ça va pas être compliqué on va le faire ensemble étape par étape. Donc on"
+    },
+    {
+      "id": 104,
+      "start": 693.68,
+      "end": 702.48,
+      "text": "va sur SEO ranking et là on va aller sur ce lien là. Donc ce site SEOranking.com que je"
+    },
+    {
+      "id": 105,
+      "start": 702.48,
+      "end": 716.98,
+      "text": "clique dessus. Je vais faire essai gratuit. Ok donc je change isser alors mince. Le problème"
+    },
+    {
+      "id": 106,
+      "start": 716.98,
+      "end": 726.46,
+      "text": "c'est que j'avais fait un test en amont. Je peux pas me déconnecter du coup. Ok c'est pas grave on"
+    },
+    {
+      "id": 107,
+      "start": 726.46,
+      "end": 734.26,
+      "text": "va pouvoir une navigation privée. Comme ça ça va m'ouvrir une nouvelle page. Donc je vais sur"
+    },
+    {
+      "id": 108,
+      "start": 734.26,
+      "end": 745.23,
+      "text": "SEO ranking. Je clique dessus. Je vais aller dans essai gratuit. Ils vont me demander mon prénom,"
+    },
+    {
+      "id": 109,
+      "start": 745.23,
+      "end": 749.83,
+      "text": "mon maill professionnel mot de passe. Et encore une fois on n'a même pas besoin de carte bancaire"
+    },
+    {
+      "id": 110,
+      "start": 749.83,
+      "end": 756.95,
+      "text": "pour 14 jours d'essai gratuit. Je sais n'importe quoi ce qu'ils ont fait mais bon c'est pas"
+    },
+    {
+      "id": 111,
+      "start": 756.99,
+      "end": 764.91,
+      "text": "avenu on va en profiter. Donc on va récupérer un email à jeu table. Donc je vais prendre"
+    },
+    {
+      "id": 112,
+      "start": 764.91,
+      "end": 775.73,
+      "text": "l'email. Je copie l'adresse email qu'elle m'a donné parce que ce que je vais faire c'est que je vais"
+    },
+    {
+      "id": 113,
+      "start": 775.73,
+      "end": 784.69,
+      "text": "mettre mon prénom. Je vais mettre mon adresse email et un mot de passe. Et je vais cliquer"
+    },
+    {
+      "id": 114,
+      "start": 784.69,
+      "end": 788.97,
+      "text": "sur essai gratuit pendant 14 jours. Donc je vais montrer que je suis pas un robot."
+    },
+    {
+      "id": 115,
+      "start": 789.13,
+      "end": 805.06,
+      "text": "Là ils me demandent tout simplement de vérifier mon adresse email. Je retourne sur le site où"
+    },
+    {
+      "id": 116,
+      "start": 805.06,
+      "end": 812.06,
+      "text": "j'ai créé mon adresse email temporaire. Et là on a bien du coup le mail devait se ranking. Je"
+    },
+    {
+      "id": 117,
+      "start": 812.06,
+      "end": 818.5,
+      "text": "fais cliquer pour vérifier mon email. Et là on a la partie onboarding. Donc la partie onboarding"
+    },
+    {
+      "id": 118,
+      "start": 818.5,
+      "end": 823.82,
+      "text": "vous pouvez la passer. C'est pas intéressant. C'est parce qu'on veut juste récupérer la"
+    },
+    {
+      "id": 119,
+      "start": 823.9,
+      "end": 828.94,
+      "text": "clappée. Donc là ils me demandent si l'internet était n'importe quoi. C'est qu'il y a encore une"
+    },
+    {
+      "id": 120,
+      "start": 828.94,
+      "end": 834.26,
+      "text": "forme de pas. On n'a pas de site pour le moment. Vous mettez juste un site que vous connaissez. Et"
+    },
+    {
+      "id": 121,
+      "start": 834.26,
+      "end": 842.71,
+      "text": "ensuite vous faites marcher. On va mettre unité de frûle. Donc là on va opiler l'analyse des"
+    },
+    {
+      "id": 122,
+      "start": 842.71,
+      "end": 852.17,
+      "text": "concurrents. Il était continué. On va commencer le suivi juste ici. Et là voilà super bon."
+    },
+    {
+      "id": 123,
+      "start": 852.17,
+      "end": 856.09,
+      "text": "Donc on a fait onboarding. On a créé une autre compte et on a bien les 14 jours"
+    },
+    {
+      "id": 124,
+      "start": 856.21,
+      "end": 862.89,
+      "text": "de ségrature. Donc on arrive sur la partie dashboard. Maintenant ce qui va nous intéresser c'est de"
+    },
+    {
+      "id": 125,
+      "start": 862.89,
+      "end": 868.53,
+      "text": "récupérer notre clé à pays. Donc pour récupérer notre clé à pays c'est simple. On va dans le petit"
+    },
+    {
+      "id": 126,
+      "start": 868.53,
+      "end": 874.21,
+      "text": "menu à gauche et on clique sur ça. Donc sur la partie à pays. Et après on va sur tableau de"
+    },
+    {
+      "id": 127,
+      "start": 874.21,
+      "end": 885.52,
+      "text": "bord à pays. Une fois que c'est fait on arrive du coup sur une interface avec 100000 crédits offerts."
+    },
+    {
+      "id": 128,
+      "start": 885.92,
+      "end": 889.12,
+      "text": "Quoi qu'en une fois c'est l'import de collectir 100000 crédits. On peut faire énormément de choses."
+    },
+    {
+      "id": 129,
+      "start": 889.12,
+      "end": 895.28,
+      "text": "En fait c'est tout en limiter. On a 14 jours. Nous on n'a l'utilisé qu'une fois on va faire"
+    },
+    {
+      "id": 130,
+      "start": 895.28,
+      "end": 900.76,
+      "text": "tourner clôt de code sur énormément de requêtes. Ça va tout simplement nous suffire pour avoir"
+    },
+    {
+      "id": 131,
+      "start": 900.76,
+      "end": 907.32,
+      "text": "vraiment très bonne audite et une très bonne stratégie. Donc maintenant on va sur cette"
+    },
+    {
+      "id": 132,
+      "start": 907.32,
+      "end": 912.28,
+      "text": "partie là. Et comme on peut voir on a le data à pays. Donc c'est 7 clics qui va nous intéresser."
+    },
+    {
+      "id": 133,
+      "start": 912.8,
+      "end": 917.68,
+      "text": "En ça on va quand même continuer un petit peu le support technique pour voir ce qu'on doit"
+    },
+    {
+      "id": 134,
+      "start": 917.68,
+      "end": 932.51,
+      "text": "faire et comment on doit donner cette clé. Donc on va du coup, je mette ça là. Du coup on va devoir"
+    },
+    {
+      "id": 135,
+      "start": 932.51,
+      "end": 942.99,
+      "text": "tout simplement préparer notre dossier du coup pour la stratégie fichée que clôt de code"
+    },
+    {
+      "id": 136,
+      "start": 943.07,
+      "end": 950.34,
+      "text": "va nous mettre. Pour ça on va retourner dans mon business juste ici. On va aller dans 0 de site."
+    },
+    {
+      "id": 137,
+      "start": 950.34,
+      "end": 957.74,
+      "text": "Donc le dossier qu'on a déjà créé va faire clic gauche. Nouveau terminal au dossier. Une fois"
+    },
+    {
+      "id": 138,
+      "start": 957.74,
+      "end": 963.46,
+      "text": "que c'est ouvert on arrive sur le terminal. Il va falloir ouvrir clôt de code. Donc pour ça c'est"
+    },
+    {
+      "id": 139,
+      "start": 963.46,
+      "end": 970.34,
+      "text": "simple. On va récupérer cette commande là. Donc clôt de dangerously ce qui permissionne."
+    },
+    {
+      "id": 140,
+      "start": 971.34,
+      "end": 976.34,
+      "text": "Pourquoi on utilise cette commande ? Parce que tout simplement on a besoin que clôt de travail"
+    },
+    {
+      "id": 141,
+      "start": 976.34,
+      "end": 982.18,
+      "text": "en autonomie. Donc ici derrière il nous demande à chaque fois la permission à chaque action."
+    },
+    {
+      "id": 142,
+      "start": 982.18,
+      "end": 988.66,
+      "text": "Ça va être une galère. Il va prendre 3-4 heures. Nous ce qu'on a besoin c'est tout simplement"
+    },
+    {
+      "id": 143,
+      "start": 988.66,
+      "end": 998.58,
+      "text": "qu'il nous livre le fichier xlsx plus du coup le site HTML et le fichier md de"
+    },
+    {
+      "id": 144,
+      "start": 998.58,
+      "end": 1004.14,
+      "text": "manière automatique sans demande de permission. Parce qu'on va juste, encore une fois il va"
+    },
+    {
+      "id": 145,
+      "start": 1004.14,
+      "end": 1007.46,
+      "text": "envoyer un prompt et il va tout faire de manière automatique. Donc une fois que j'ai copié la"
+    },
+    {
+      "id": 146,
+      "start": 1007.46,
+      "end": 1016.62,
+      "text": "commande je fais entrer et là du coup j'arrive sur l'interface de clôt de code avec la partie"
+    },
+    {
+      "id": 147,
+      "start": 1016.62,
+      "end": 1021.98,
+      "text": "permission ou il va pas demander à chaque fois l'autorisation de faire quelque chose."
+    },
+    {
+      "id": 148,
+      "start": 1021.98,
+      "end": 1031.26,
+      "text": "Donc ce qu'on va faire ensuite c'est qu'on va glisser nos études de marché. Donc on a fait"
+    },
+    {
+      "id": 149,
+      "start": 1031.26,
+      "end": 1043.02,
+      "text": "lors de la séance 5. Donc si je vais dans hop mon business études de marché je vais récupérer"
+    },
+    {
+      "id": 150,
+      "start": 1043.02,
+      "end": 1048.62,
+      "text": "les trois fichiers. Je vais les glisser juste ici. Donc là on peut voir qu'il me manque un."
+    },
+    {
+      "id": 151,
+      "start": 1048.62,
+      "end": 1055.46,
+      "text": "Il me manque le plus important le md parce qu'on sait qu'il est bien. Une fois que c'est fait ce"
+    },
+    {
+      "id": 152,
+      "start": 1055.46,
+      "end": 1062.58,
+      "text": "qu'on doit faire ensuite c'est tout simplement récupérer le prompt. Donc le prompt est assez"
+    },
+    {
+      "id": 153,
+      "start": 1062.58,
+      "end": 1070.46,
+      "text": "grand. C'est vraiment moi qui l'ai créé parce que je sais ce qui marche dans le SEO. Je sais comment"
+    },
+    {
+      "id": 154,
+      "start": 1070.46,
+      "end": 1078.58,
+      "text": "tout simplement avoir un audit, une bonne stratégie. Donc voilà pourquoi il est aussi long."
+    },
+    {
+      "id": 155,
+      "start": 1078.58,
+      "end": 1088.34,
+      "text": "Donc maintenant aucun en copie le prompt dans 20 fichiers Google. Donc pourquoi ? Parce qu'on"
+    },
+    {
+      "id": 156,
+      "start": 1088.34,
+      "end": 1094.36,
+      "text": "a des variables à remplir et il va falloir qu'il modifie manuellement. Là comme on peut"
+    },
+    {
+      "id": 157,
+      "start": 1094.36,
+      "end": 1102.7,
+      "text": "voir le résultat il n'est pas très joli. Donc on va essayer de se faire en mieux. Je le"
+    },
+    {
+      "id": 158,
+      "start": 1102.7,
+      "end": 1117.6,
+      "text": "copie comme ça, ça ne change pas. Donc on va mettre en moins aucune. Donc là on va"
+    },
+    {
+      "id": 159,
+      "start": 1117.6,
+      "end": 1126.78,
+      "text": "grandir un petit peu. Donc là on a besoin de la variable de le clé d'API. Donc le nom de l'agence"
+    },
+    {
+      "id": 160,
+      "start": 1126.78,
+      "end": 1140.22,
+      "text": "moi c'est REST IA. Donc la variable juste ici clé API SEO ranking. Donc on va la récupérer"
+    },
+    {
+      "id": 161,
+      "start": 1140.22,
+      "end": 1149.3,
+      "text": "dans l'interface du coup de l'outil SEO ranking comme on l'a vu tout à l'heure. Donc pour la"
+    },
+    {
+      "id": 162,
+      "start": 1149.3,
+      "end": 1158.18,
+      "text": "récupérer c'est pas compliqué. On clique seulement sur copier juste ici et hop vous la collez."
+    },
+    {
+      "id": 163,
+      "start": 1159.14,
+      "end": 1165.38,
+      "text": "Là comme on peut voir j'ai beaucoup zoomé mais si je dézoome normalement elle a bien été collée."
+    },
+    {
+      "id": 164,
+      "start": 1165.38,
+      "end": 1177.02,
+      "text": "Ouais elle a bien été collée. Ok top. Donc on remet le autre nom d'agence. Donc REST IA. Ensuite on"
+    },
+    {
+      "id": 165,
+      "start": 1177.02,
+      "end": 1185.14,
+      "text": "va donner le chemin du logo. Pour le chemin du logo c'est pas compliqué. On retourne dans le"
+    },
+    {
+      "id": 166,
+      "start": 1185.14,
+      "end": 1194.66,
+      "text": "bureau, on va dans mon business, on va dans brand et on va le mettre tout simplement le logo en"
+    },
+    {
+      "id": 167,
+      "start": 1194.66,
+      "end": 1201.14,
+      "text": "photo. Donc voilà on va remplir encore une fois cette variable avec la clé API comme ça. Il"
+    },
+    {
+      "id": 168,
+      "start": 1201.14,
+      "end": 1209.1,
+      "text": "a plusieurs fois qu'il ne peut pas perdre le contexte et du coup une fois que c'est fait on va"
+    },
+    {
+      "id": 169,
+      "start": 1209.1,
+      "end": 1216.38,
+      "text": "pouvoir lui envoyer. Donc si je revois mon terminal j'ai bien mon étude de marché envoyé et là"
+    },
+    {
+      "id": 170,
+      "start": 1216.38,
+      "end": 1225.5,
+      "text": "du coup je fais coller le prompt et en plus de ça je lui mets l'image de mon logo qui va"
+    },
+    {
+      "id": 171,
+      "start": 1225.5,
+      "end": 1232.66,
+      "text": "m'intégrer directement dans mon html. Donc là après je fais juste entrer et du coup comme on"
+    },
+    {
+      "id": 172,
+      "start": 1232.66,
+      "end": 1242.26,
+      "text": "peut voir tout a été envoyé. Donc là il voit qu'il va d'une part analyser le logo. Donc c'est la"
+    },
+    {
+      "id": 173,
+      "start": 1242.26,
+      "end": 1249.74,
+      "text": "phase 0. Ensuite ce qu'il va faire c'est qu'il va ouvrir comme on peut voir la partie étude de"
+    },
+    {
+      "id": 174,
+      "start": 1249.74,
+      "end": 1256.46,
+      "text": "marché. Donc le premier édificier qu'il ouvre c'est le MD. On sait que c'est ce qu'il préfère. Donc là"
+    },
+    {
+      "id": 175,
+      "start": 1256.46,
+      "end": 1267.14,
+      "text": "il va tester l'API et se rendre compte si elle fonctionne bien. Donc là encore une fois le message"
+    },
+    {
+      "id": 176,
+      "start": 1267.14,
+      "end": 1276.34,
+      "text": "c'est une bad request. Donc pour le moment il a du mal à se connecter. Donc là on a une erreur 401"
+    },
+    {
+      "id": 177,
+      "start": 1276.34,
+      "end": 1290.06,
+      "text": "qu'on va voir si il trouve une solution en question. Il a bien réussi à se connecter parce que là"
+    },
+    {
+      "id": 178,
+      "start": 1290.06,
+      "end": 1294.26,
+      "text": "il est en train de préparer les phases. Donc comment ça va se passer ? Ça va se passer en plusieurs"
+    },
+    {
+      "id": 179,
+      "start": 1294.26,
+      "end": 1300.42,
+      "text": "phases. Donc on aura la phase 0 derrière. Il va faire une synthète de l'étude avec les personnes."
+    },
+    {
+      "id": 180,
+      "start": 1300.42,
+      "end": 1306.94,
+      "text": "Grâce à cette synthèse là il va générer des mots clics. Donc il va faire des appels à pays directement"
+    },
+    {
+      "id": 181,
+      "start": 1306.94,
+      "end": 1314.78,
+      "text": "sur ranking pour récupérer les bonnes roquettes. Après il va préparer la stratégie et au plus"
+    },
+    {
+      "id": 182,
+      "start": 1314.78,
+      "end": 1324.78,
+      "text": "la partie pronte. Et ensuite il va tout combiner dans du coup un fichier MD, un fichier X, LSX et après"
+    },
+    {
+      "id": 183,
+      "start": 1324.78,
+      "end": 1332.62,
+      "text": "partie HTML. Donc ça va prendre du temps parce que il y a énormément de phases à gérer et c'est"
+    },
+    {
+      "id": 184,
+      "start": 1332.62,
+      "end": 1343.58,
+      "text": "très grosse phase. On va le laisser travailler et le temps va commencer à analyser du coup"
+    },
+    {
+      "id": 185,
+      "start": 1344.58,
+      "end": 1350.62,
+      "text": "le point. Je vais mettre des espaces pour que ce soit plus visé pour vous."
+    },
+    {
+      "id": 186,
+      "start": 1350.62,
+      "end": 1369.8,
+      "text": "Faust Roi. On donne ces trois phases. On a la phase compréhension. Il va faire 0 appel à pays. Donc là"
+    },
+    {
+      "id": 187,
+      "start": 1369.8,
+      "end": 1376.92,
+      "text": "il va vraiment comprendre d'autres études de marché. Il va sortir les critères principales."
+    },
+    {
+      "id": 188,
+      "start": 1377.92,
+      "end": 1385.56,
+      "text": "Pour comprendre derrière où l'on doit se positionner. Et il va faire aussi une blacklist"
+    },
+    {
+      "id": 189,
+      "start": 1385.56,
+      "end": 1392.24,
+      "text": "systématique pour éviter d'utiliser des mots clics qui ne sont pas utiles pour poser une stratégie"
+    },
+    {
+      "id": 190,
+      "start": 1392.24,
+      "end": 1400.4,
+      "text": "par rapport à ça. Ensuite la phase 1 du coup ça va être la génération de Minmoké avec"
+    },
+    {
+      "id": 191,
+      "start": 1400.4,
+      "end": 1407.24,
+      "text": "deux familles. Donc en gros la famille 1 ça va être des cas d'usage métier. Par exemple là"
+    },
+    {
+      "id": 192,
+      "start": 1407.24,
+      "end": 1411.12,
+      "text": "tapé par le dirigeant qu'il y a un problème opérationnel et sans forcément le mot il n'y a pas terme."
+    },
+    {
+      "id": 193,
+      "start": 1411.12,
+      "end": 1416.32,
+      "text": "C'est important de lui dire parce que derrière il faut lui donner beaucoup d'indication. Par la suite"
+    },
+    {
+      "id": 194,
+      "start": 1416.32,
+      "end": 1422.56,
+      "text": "soit qualitatif. C'est avec derrière mon expertise en SEO et plutôt intéressant sur ce sujet là."
+    },
+    {
+      "id": 195,
+      "start": 1423.56,
+      "end": 1431.4,
+      "text": "Voilà, après on a la famille 2. Donc la famille ya et automatisation. Donc du coup on aura deux"
+    },
+    {
+      "id": 196,
+      "start": 1431.4,
+      "end": 1437.24,
+      "text": "familles de mots clics générées. Et ensuite comme on l'a vu tout à l'heure lors de l'explication au niveau"
+    },
+    {
+      "id": 197,
+      "start": 1437.24,
+      "end": 1444.24,
+      "text": "du SEO, les mots clics qui va nous donner font nous permettre tout simplement de nous positionner"
+    },
+    {
+      "id": 198,
+      "start": 1444.24,
+      "end": 1456.84,
+      "text": "sur Google. Par exemple si je vais sur SEO ranking je vais dans la partie papapa. Je ne sais pas"
+    },
+    {
+      "id": 199,
+      "start": 1456.84,
+      "end": 1471.72,
+      "text": "où ça se trouve sur site. Alors attendez on va chercher ensemble. Je ne cherche pas"
+    },
+    {
+      "id": 200,
+      "start": 1471.84,
+      "end": 1480.32,
+      "text": "on sait le recherche de mots clics dans le recherche de mots clics. Je vais mettre l'agence"
+    },
+    {
+      "id": 201,
+      "start": 1480.32,
+      "end": 1518.94,
+      "text": "y1 pour le stand. Donc si j'examine, je peux aller attendre. Je ne sais pas pourquoi ça ne cherche pas."
+    },
+    {
+      "id": 202,
+      "start": 1518.94,
+      "end": 1529.98,
+      "text": "Si on fait par exemple l'agence y1 sur un mot clics un petit peu plus général, on peut voir"
+    },
+    {
+      "id": 203,
+      "start": 1530.06,
+      "end": 1536.46,
+      "text": "qu'on a des statistiques. Donc on a la partie de difficulté. Donc derrière on a une difficulté"
+    },
+    {
+      "id": 204,
+      "start": 1536.46,
+      "end": 1546.38,
+      "text": "du coup ou la concurrence est assez compliquée parce qu'il y a 33 sur 10. On a un volume de"
+    },
+    {
+      "id": 205,
+      "start": 1546.38,
+      "end": 1554.58,
+      "text": "recherche du coup qui est à hauteur de tout simplement 70 par mois et pour nous positionner"
+    },
+    {
+      "id": 206,
+      "start": 1554.58,
+      "end": 1565.5,
+      "text": "en ads payance en euros 62 pour être sur le premier résultat. On peut voir qu'il y a des idées de mots"
+    },
+    {
+      "id": 207,
+      "start": 1565.5,
+      "end": 1570.26,
+      "text": "clics similaires. Donc on a l'agence automatisation y1. Là par contre on a un volume qui est un peu plus"
+    },
+    {
+      "id": 208,
+      "start": 1570.26,
+      "end": 1577.02,
+      "text": "élevé avec 390. Ce qui va être intéressant comme on peut voir avec ce mot clics là c'est que la"
+    },
+    {
+      "id": 209,
+      "start": 1577.02,
+      "end": 1583.22,
+      "text": "difficulté est de 15 que le volume de recherche est assez intéressant. Donc on pourrait faire un"
+    },
+    {
+      "id": 210,
+      "start": 1583.22,
+      "end": 1589.74,
+      "text": "article de blog ou une page. On récupère du coup ce mot clics agencia plus agence automatisation y1."
+    },
+    {
+      "id": 211,
+      "start": 1589.74,
+      "end": 1598.34,
+      "text": "Comme ça on combine ce volume de recherche avec celui-ci. Donc ça ça va être intéressant."
+    },
+    {
+      "id": 212,
+      "start": 1598.34,
+      "end": 1609.9,
+      "text": "Donc là on a la partie de mots clics en lien. Donc c'est top. Ok et là on peut voir des"
+    },
+    {
+      "id": 213,
+      "start": 1610.02,
+      "end": 1619.42,
+      "text": "contiens, du coup du trajet total. Il est avec un total de mots clics de 94 donc c'est un trafic de"
+    },
+    {
+      "id": 214,
+      "start": 1619.42,
+      "end": 1628.13,
+      "text": "81. Ok donc si je clique ici on peut voir que sort liste il est numéro 1. Encore une fois on connaissait"
+    },
+    {
+      "id": 215,
+      "start": 1628.13,
+      "end": 1638.77,
+      "text": "sort liste c'est tout simplement en peu près espylote qui regroupe plusieurs entreprises sur son"
+    },
+    {
+      "id": 216,
+      "start": 1638.77,
+      "end": 1645.37,
+      "text": "site. Voilà toutes les informations qu'on va récupérer. Donc notre audit et l'autre stratégie"
+    },
+    {
+      "id": 217,
+      "start": 1645.37,
+      "end": 1651.97,
+      "text": "SEO va être extrêmement technique remplie de données. Encore une fois mon objectif c'est pas de vous"
+    },
+    {
+      "id": 218,
+      "start": 1651.97,
+      "end": 1656.29,
+      "text": "déjà vous pouvez tout faire avec le code. On peut tout faire mais il va falloir le faire bien. Donc là"
+    },
+    {
+      "id": 219,
+      "start": 1656.29,
+      "end": 1663.61,
+      "text": "c'est ce qu'on voit justement avec cette partie là audit SEO et GEO. Quand on va créer du coup"
+    },
+    {
+      "id": 220,
+      "start": 1663.61,
+      "end": 1672.77,
+      "text": "notre site internet, quand on va faire une page, notre page sera réfléchie parce que on va récupérer"
+    },
+    {
+      "id": 221,
+      "start": 1672.77,
+      "end": 1679.37,
+      "text": "les mots clics de notre analyse pour simplement les utiliser afin que notre page ressorte correctement"
+    },
+    {
+      "id": 222,
+      "start": 1679.37,
+      "end": 1688.13,
+      "text": "sur les moteurs de recherche d'une part comme Google et le part comme des LLM genre style"
+    },
+    {
+      "id": 223,
+      "start": 1688.25,
+      "end": 1696.89,
+      "text": "chadjpt et perplexitique tout ça. Voilà on a des suggestions mots clics aussi qu'on va"
+    },
+    {
+      "id": 224,
+      "start": 1696.89,
+      "end": 1702.77,
+      "text": "détrouver donc non agencia on peut voir qu'on a tout ça donc là on a une limite c'est pas grave"
+    },
+    {
+      "id": 225,
+      "start": 1702.77,
+      "end": 1707.73,
+      "text": "vu que nous n'utilise la paix il n'y a aucune limite. On pourrait récupérer tous ces mots clics"
+    },
+    {
+      "id": 226,
+      "start": 1707.73,
+      "end": 1712.69,
+      "text": "là et par exemple ce avec une difficulté au-dessus de 50 on ne l'utilise pas dans un"
+    },
+    {
+      "id": 227,
+      "start": 1712.69,
+      "end": 1717.85,
+      "text": "article surtout qu'il n'y a même pas beaucoup de volumes et t'as par exemple encore une fois celui-là"
+    },
+    {
+      "id": 228,
+      "start": 1717.85,
+      "end": 1724.73,
+      "text": "c'est un mots clics qui peut être très intéressant très très intéressant et un bon volume et difficulté"
+    },
+    {
+      "id": 229,
+      "start": 1724.73,
+      "end": 1732.57,
+      "text": "qui est assez faible donc on pourrait refaire un article plus une page après on a partie"
+    },
+    {
+      "id": 230,
+      "start": 1732.57,
+      "end": 1742.28,
+      "text": "automatisation voilà ce que je voulais chatbot local avec ça un service qu'on propose du coup"
+    },
+    {
+      "id": 231,
+      "start": 1742.32,
+      "end": 1753.89,
+      "text": "dans l'agence qu'on a créé ensemble reste il y a parce que ça boit un petit peu pour les mots"
+    },
+    {
+      "id": 232,
+      "start": 1753.89,
+      "end": 1769.78,
+      "text": "clics qui sont ok donc là il a bientôt terminé l'infinie les deux mines mots clics il a fait la"
+    },
+    {
+      "id": 233,
+      "start": 1769.78,
+      "end": 1775.5,
+      "text": "phase 2 avec la stratégie geo plus ponte il est en train de travailler du coup sur la phase 3a donc"
+    },
+    {
+      "id": 234,
+      "start": 1775.5,
+      "end": 1783.9,
+      "text": "la stratégie md et la phase 3b top après il va se générer le html qui pour moi un"
+    },
+    {
+      "id": 235,
+      "start": 1783.9,
+      "end": 1790.14,
+      "text": "petit peu plus dedans je ne comprends pas pourquoi derrière ça ne charge pas mais en gros j'espère"
+    },
+    {
+      "id": 236,
+      "start": 1790.14,
+      "end": 1797.06,
+      "text": "que vous avez compris du coup à quoi sert les mots clics du coup pour se positionner on a aussi la"
+    },
+    {
+      "id": 237,
+      "start": 1797.06,
+      "end": 1806.7,
+      "text": "partie de backlinks il est prouvé justement on a bien sorti mais comme on peut voir il n'y a"
+    },
+    {
+      "id": 238,
+      "start": 1806.7,
+      "end": 1810.82,
+      "text": "aucune volume de recherche au niveau de ce mot clics là qu'on a fait justement dans la partie"
+    },
+    {
+      "id": 239,
+      "start": 1810.82,
+      "end": 1817.5,
+      "text": "backlinks du coup la partie backlinks ça va permettre de ajouter de l'expertise à notre"
+    },
+    {
+      "id": 240,
+      "start": 1817.5,
+      "end": 1824.9,
+      "text": "agence donc diraguel voilà regarde qui a mis un lien sur mon site internet de mon site internet de"
+    },
+    {
+      "id": 241,
+      "start": 1824.9,
+      "end": 1832.26,
+      "text": "mon agence ça prouve que je suis par un expert dans ce milieu là par exemple si je vais sur"
+    },
+    {
+      "id": 242,
+      "start": 1832.26,
+      "end": 1844.98,
+      "text": "n8n patch de fort j'ai mon compte n8n si je vais sur un new workflow pour proposer à la communauté"
+    },
+    {
+      "id": 243,
+      "start": 1844.98,
+      "end": 1851.66,
+      "text": "on peut voir que j'ai mis un lien donc un backlinks de vision lien là on arrive bien sur une page"
+    },
+    {
+      "id": 244,
+      "start": 1851.66,
+      "end": 1859.78,
+      "text": "pourquoi j'ai fait ça tout simplement parce que n8n bah domaine réputé donc google connaît"
+    },
+    {
+      "id": 245,
+      "start": 1859.78,
+      "end": 1868.7,
+      "text": "très bien et si derrière je mets un lien de mon agence sur n8n google tout simplement se dire"
+    },
+    {
+      "id": 246,
+      "start": 1868.7,
+      "end": 1874.78,
+      "text": "ok c'est une agence qui est experte faut que je le positionne correctement que c'est pour ça qu'il"
+    },
+    {
+      "id": 247,
+      "start": 1874.78,
+      "end": 1882.3,
+      "text": "va falloir utiliser aussi le stratégie de backlinks qu'on verra également donc voilà par rapport"
+    },
+    {
+      "id": 248,
+      "start": 1882.3,
+      "end": 1891.26,
+      "text": "à ça qu'on va attendre qu'il finisse et sur la partie md qui a fini aussi le xlsx que si"
+    },
+    {
+      "id": 249,
+      "start": 1891.26,
+      "end": 1900.46,
+      "text": "j'ouvre bureau long business site audit SEO on peut voir qu'on a déjà le xlsx donc on va l'ouvrir"
+    },
+    {
+      "id": 250,
+      "start": 1900.46,
+      "end": 1910.72,
+      "text": "tout simplement hop donc si je fais une nouvelle page on va aller encore une fois sur le compte"
+    },
+    {
+      "id": 251,
+      "start": 1910.72,
+      "end": 1929.02,
+      "text": "où j'ai créé mon co-work je vais sur le cheat pour l'air fiché hop emporter parcourir en business"
+    },
+    {
+      "id": 252,
+      "start": 1929.02,
+      "end": 1939.06,
+      "text": "site audit SEO xlsx si je loop derrière emporter les données on va voir un petit peu le résultat"
+    },
+    {
+      "id": 253,
+      "start": 1939.06,
+      "end": 1950.46,
+      "text": "qu'on a donc voilà à 10 onglais sont détaillés hop appel raté en service cas du sage je suis"
+    },
+    {
+      "id": 254,
+      "start": 1950.46,
+      "end": 1957.54,
+      "text": "partition par cas du sage c'est ok là on a la première page donc ça est un peu le sommaire"
+    },
+    {
+      "id": 255,
+      "start": 1957.54,
+      "end": 1965.99,
+      "text": "du coup donc une synthèse en gros si je vais sur la partie mon clé j'ai bien mis 2000 l'art"
+    },
+    {
+      "id": 256,
+      "start": 1965.99,
+      "end": 1975.99,
+      "text": "mon clé donc le logiciel traiteur lille non système traiteur lille là vous vous dites moi mais ça"
+    },
+    {
+      "id": 257,
+      "start": 1975.99,
+      "end": 1983.71,
+      "text": "aucun rapport avec la partie automatisation et la partie ya que je vais te vendre en fait juste"
+    },
+    {
+      "id": 258,
+      "start": 1983.71,
+      "end": 1989.63,
+      "text": "ce mot que là système peut être intéressant si derrière vous faites un article vous mettez par"
+    },
+    {
+      "id": 259,
+      "start": 1989.63,
+      "end": 1996.19,
+      "text": "exemple nous vous parlez rapidement juste sur une phrase je vous donne ce mot clé là vous allez"
+    },
+    {
+      "id": 260,
+      "start": 1996.19,
+      "end": 2002.51,
+      "text": "pouvoir cibler du coup probablement ce volume là vous positionnez du coup sur cette requête que ça"
+    },
+    {
+      "id": 261,
+      "start": 2002.51,
+      "end": 2008.63,
+      "text": "peut être intéressant le mec qui connaît pas par exemple l'automatisation etc si il tombe sur votre"
+    },
+    {
+      "id": 262,
+      "start": 2008.63,
+      "end": 2015.87,
+      "text": "article par hasard ça peut l'intéresser du coup il peut vous contacter en gros par article"
+    },
+    {
+      "id": 263,
+      "start": 2015.87,
+      "end": 2021.63,
+      "text": "qu'on peut regrouper une bonne trentaine de mot clé directement pour ensuite créer un contenu"
+    },
+    {
+      "id": 264,
+      "start": 2021.63,
+      "end": 2026.35,
+      "text": "qui nous permettra qu'il par exemple chape votre restaurant ou qui a mis 400 volumes la difficulté"
+    },
+    {
+      "id": 265,
+      "start": 2026.35,
+      "end": 2033.59,
+      "text": "ouais et elle est de 61 donc ça reste quand même c'est compliqué donc vous pourrez très bien du"
+    },
+    {
+      "id": 266,
+      "start": 2033.59,
+      "end": 2044.54,
+      "text": "coup l'utiliser en seconde et ensuite combiner du coup des mot clé qui sont intéressants avec"
+    },
+    {
+      "id": 267,
+      "start": 2044.54,
+      "end": 2057.18,
+      "text": "une difficulté qui sont pas très élevés sur hop on a bien vu au 2000 mot clé maintenant on va"
+    },
+    {
+      "id": 268,
+      "start": 2057.18,
+      "end": 2065.3,
+      "text": "aller dans la partie cluster donc ça servait plutôt pour la partie page que ce qu'on va utiliser"
+    },
+    {
+      "id": 269,
+      "start": 2065.3,
+      "end": 2073.74,
+      "text": "que ça c'est vraiment important bien checker donc à jour il va à jour qu'à dire les fondamentaux"
+    },
+    {
+      "id": 270,
+      "start": 2073.74,
+      "end": 2081.02,
+      "text": "donc pour y faire un article dessus ou une page donc service à chanvo cadia service à chanvo"
+    },
+    {
+      "id": 271,
+      "start": 2081.02,
+      "end": 2087.86,
+      "text": "cal priet arrive une page par rapport à ça une page par rapport enfin là ça y est plutôt un article"
+    },
+    {
+      "id": 272,
+      "start": 2087.86,
+      "end": 2094.54,
+      "text": "donc là ça peut faire très bien une page voilà donc ça c'est super intéressant parce que si on"
+    },
+    {
+      "id": 273,
+      "start": 2094.54,
+      "end": 2099.94,
+      "text": "cumule du coup cette requête là avec les mot clé qu'on va mettre en intérieur on peut cibler"
+    },
+    {
+      "id": 274,
+      "start": 2099.94,
+      "end": 2110.94,
+      "text": "du coup en voulu cumuler de 28802 donc c'est pas mal du tout maintenant on va voir au niveau de"
+    },
+    {
+      "id": 275,
+      "start": 2110.94,
+      "end": 2119.46,
+      "text": "l'architecture donc comment on va créer du coup notre site web donc on a la partie service donc"
+    },
+    {
+      "id": 276,
+      "start": 2119.46,
+      "end": 2125.66,
+      "text": "dans la partie service on aura du coup agent vocale il y a restaurant donc ça servait une"
+    },
+    {
+      "id": 277,
+      "start": 2125.66,
+      "end": 2132.94,
+      "text": "page service on aura une partie aussi chatbot restaurant une partie assistant email privatisation"
+    },
+    {
+      "id": 278,
+      "start": 2132.94,
+      "end": 2143.78,
+      "text": "partie relance à vie google une partie antino show ya ok partie audit ya restaurant et service"
+    },
+    {
+      "id": 279,
+      "start": 2143.78,
+      "end": 2150.14,
+      "text": "petit chain 3d ça c'est pas utile honnêtement je vais le sauter parce que c'est mal expliqué"
+    },
+    {
+      "id": 280,
+      "start": 2150.14,
+      "end": 2160.45,
+      "text": "c'est mal expliqué ou non c'est pas terrible donc ça je vais le sauter ça on aura aussi la partie"
+    },
+    {
+      "id": 281,
+      "start": 2160.45,
+      "end": 2167.17,
+      "text": "quaclient du coup quaclient et à restauration avec le titre ça sera ça ça c'est la partie"
+    },
+    {
+      "id": 282,
+      "start": 2167.17,
+      "end": 2174.33,
+      "text": "relance bien sûr là on pourra faire très bien la partie article de blog top à propos"
+    },
+    {
+      "id": 283,
+      "start": 2174.33,
+      "end": 2181.29,
+      "text": "ouais non franchement c'est top ça peut être très bien ça comme structure de site web mais le"
+    },
+    {
+      "id": 284,
+      "start": 2181.29,
+      "end": 2190.57,
+      "text": "plan est tutoriel donc du coup encore une fois on récupère les clusters on voit les volumes donc là"
+    },
+    {
+      "id": 285,
+      "start": 2190.57,
+      "end": 2194.89,
+      "text": "ça va être des articles de blog ça c'est ce qu'on va faire lors des prochaines séances"
+    },
+    {
+      "id": 286,
+      "start": 2194.89,
+      "end": 2204.37,
+      "text": "là on va utiliser du coup notre audit et stratégie pour faire les articles automatiques"
+    },
+    {
+      "id": 287,
+      "start": 2204.37,
+      "end": 2210.41,
+      "text": "pour le positionner correctement sur google ou après on a la partie comptuant ici haut"
+    },
+    {
+      "id": 288,
+      "start": 2210.41,
+      "end": 2219.93,
+      "text": "comme on peut voir rj rj en parlant si tu es dessus on va voir ce qu'ils proposent l'agent vocale qui"
+    },
+    {
+      "id": 289,
+      "start": 2219.93,
+      "end": 2226.93,
+      "text": "n'a pas eu ce la gestion vos appels en entreprise si je retourne sur du coup mon audit"
+    },
+    {
+      "id": 290,
+      "start": 2227.93,
+      "end": 2234.85,
+      "text": "voix positionnement c'est un majeur vocalia vertical dans g4 donc lui ça peut être un"
+    },
+    {
+      "id": 291,
+      "start": 2234.85,
+      "end": 2244.69,
+      "text": "concurrent direct voilà lui et la c'est notre concurrent principal lui manque les difficultés de"
+    },
+    {
+      "id": 292,
+      "start": 2244.69,
+      "end": 2251.01,
+      "text": "5 sur 5 et une forte acquisition sfa et l'un de ses moyens qui fait vraiment des chat bots"
+    },
+    {
+      "id": 293,
+      "start": 2251.01,
+      "end": 2257.21,
+      "text": "la restauration donc tu vas le checker au niveau de mon concurrent chat bot il a pour le service"
+    },
+    {
+      "id": 294,
+      "start": 2257.21,
+      "end": 2265.41,
+      "text": "qui est donc ressources blog solution chat bot qui traverse notre système mobiles ressources"
+    },
+    {
+      "id": 295,
+      "start": 2265.41,
+      "end": 2277.37,
+      "text": "possible j'allais dans la partie restaurant là c'est du site full je pense que Claude ça"
+    },
+    {
+      "id": 296,
+      "start": 2277.37,
+      "end": 2282.49,
+      "text": "m'a l'air d'être du Claude bref ce qu'elle est bien positionné c'est le car il sont fort"
+    },
+    {
+      "id": 297,
+      "start": 2282.49,
+      "end": 2291.36,
+      "text": "qu'il va falloir qu'on soit encore meilleur que l'on a tous nos concurrents ça est intéressant"
+    },
+    {
+      "id": 298,
+      "start": 2291.36,
+      "end": 2300.2,
+      "text": "du coup pour analyser ensuite un peu plus en détail on a la partie aussi du coup hop tienne"
+    },
+    {
+      "id": 299,
+      "start": 2300.2,
+      "end": 2305.0,
+      "text": "y a choisir pour un restaurant indépendant meilleur argent vocalia donc ça c'est les"
+    },
+    {
+      "id": 300,
+      "start": 2305.0,
+      "end": 2312.2,
+      "text": "recherches du coup tout simplement que les gens font sur les lm donc va falloir se positionner"
+    },
+    {
+      "id": 301,
+      "start": 2312.2,
+      "end": 2319.56,
+      "text": "sur chacune de ces demandes là pour qu'ensuite notre agence ressorte sur la réponse tu es l'élément"
+    },
+    {
+      "id": 302,
+      "start": 2319.56,
+      "end": 2326.56,
+      "text": "question pour ça on a la partie stratégie donc la stratégie de contenu géo donc ce qu'on va"
+    },
+    {
+      "id": 303,
+      "start": 2326.56,
+      "end": 2333.24,
+      "text": "faire c'est simple c'est tout simplement créer des articles donc les articles juste ici"
+    },
+    {
+      "id": 304,
+      "start": 2333.24,
+      "end": 2339.52,
+      "text": "donc les 30 termes il y a restaurant qu'un géant doit connaître du coup derrière on va"
+    },
+    {
+      "id": 305,
+      "start": 2339.52,
+      "end": 2344.56,
+      "text": "utiliser un format classer et on va utiliser 2500 mots et on va montrer notre expertise ça va"
+    },
+    {
+      "id": 306,
+      "start": 2344.56,
+      "end": 2353.88,
+      "text": "me permettre de se référencer du coup directement sur les lm et du coup sur chaque roquette juste ici"
+    },
+    {
+      "id": 307,
+      "start": 2353.88,
+      "end": 2362.08,
+      "text": "du prompt géo et bien tout simplement avoir une réponse et être mentionné sur notre agence"
+    },
+    {
+      "id": 308,
+      "start": 2363.08,
+      "end": 2372.24,
+      "text": "et là du coup on a la citation et autorité hop donc là c'est pour les pack links pour être"
+    },
+    {
+      "id": 309,
+      "start": 2372.24,
+      "end": 2381.36,
+      "text": "très bien du coup utiliser reddit ça c'est le top du top pour envoyer du coup des articles"
+    },
+    {
+      "id": 310,
+      "start": 2381.36,
+      "end": 2386.84,
+      "text": "externes faire notre site dans notre agence pour avoir du coup une meilleure autorité au niveau"
+    },
+    {
+      "id": 311,
+      "start": 2386.84,
+      "end": 2394.04,
+      "text": "d'autres citoyens donc c'est assez fou quand même ce qui nous a produit on espace des 15 minutes"
+    },
+    {
+      "id": 312,
+      "start": 2394.04,
+      "end": 2398.52,
+      "text": "de réflexion vraiment quelque chose qui est extrêmement poussé on peut encore plus l'enrichir"
+    },
+    {
+      "id": 313,
+      "start": 2398.52,
+      "end": 2405.08,
+      "text": "mais là déjà c'est c'est déjà plus que pas mal faire vraiment quelque chose d'intéressant en"
+    },
+    {
+      "id": 314,
+      "start": 2405.08,
+      "end": 2413.4,
+      "text": "termes de positionnement je vais voir si un autre important on t'a fini si derrière j'ouvre du coup"
+    },
+    {
+      "id": 315,
+      "start": 2413.4,
+      "end": 2429.62,
+      "text": "mon dossier ici je vais aller dans le site voir qui m'a fait mon site html avec du coup l'audit"
+    },
+    {
+      "id": 316,
+      "start": 2429.62,
+      "end": 2434.14,
+      "text": "et la stratégie il est magnifique le site j'aime beaucoup que là avec mon logo en question"
+    },
+    {
+      "id": 317,
+      "start": 2434.14,
+      "end": 2443.34,
+      "text": "que la synthèse explorée que là on a toutes les informations qu'on a vu sur lxsx du coup là ça"
+    },
+    {
+      "id": 318,
+      "start": 2443.34,
+      "end": 2449.34,
+      "text": "peut être intéressant pour vous on va un vision un petit peu plus propre un petit peu plus visible"
+    },
+    {
+      "id": 319,
+      "start": 2449.34,
+      "end": 2460.49,
+      "text": "ou présentation même je sais pas un obstacle sur autre donc c'est top top 8 donc voilà un petit"
+    },
+    {
+      "id": 320,
+      "start": 2460.49,
+      "end": 2467.89,
+      "text": "peu ce que vous pouvez faire du coup en rendu avec une clé à pays du coup d'un outil comme s"
+    },
+    {
+      "id": 321,
+      "start": 2467.89,
+      "end": 2473.21,
+      "text": "ranking je pense extrêmement puissant et du coup maintenant ce qu'on va faire c'est qu'on va"
+    },
+    {
+      "id": 322,
+      "start": 2473.25,
+      "end": 2485.58,
+      "text": "intégrer le résultat donc si on va sur ce qu'on fait c'est pas compliqué"
+    },
+    {
+      "id": 323,
+      "start": 2485.58,
+      "end": 2500.15,
+      "text": "retournant project retournant corps business clique sur plus et on choisit un dossier on va dans bureau"
+    },
+    {
+      "id": 324,
+      "start": 2500.15,
+      "end": 2511.87,
+      "text": "business site visite ouvrir que l'envoi que j'ai bien toutes mes informations je lui dis"
+    },
+    {
+      "id": 325,
+      "start": 2511.87,
+      "end": 2536.88,
+      "text": "un ami mais donc les clans va laisser travailler encore une fois faut tout centraliser comme ça"
+    },
+    {
+      "id": 326,
+      "start": 2536.88,
+      "end": 2543.4,
+      "text": "on gagne du temps on gagne en puissance et en productivité que l'on attend qui me répond"
+    },
+    {
+      "id": 327,
+      "start": 2543.4,
+      "end": 2570.68,
+      "text": "il me fasse tout simplement petite réponse pour un sujet d'article intéressant qu'on attend"
+    },
+    {
+      "id": 328,
+      "start": 2570.68,
+      "end": 2580.24,
+      "text": "qui répondent et en cours de réflexion automatique c'est les termes de privéversion et le mec"
+    },
+    {
+      "id": 329,
+      "start": 2580.24,
+      "end": 2586.08,
+      "text": "dans le restaurant le qui te complèrent en 2026 pourquoi du coup là c'est le plus beau trou de"
+    },
+    {
+      "id": 330,
+      "start": 2586.08,
+      "end": 2591.96,
+      "text": "marché identifié donc comme il peut voir et regarde les études de la stratégie le cluster"
+    },
+    {
+      "id": 331,
+      "start": 2591.96,
+      "end": 2599.56,
+      "text": "donc on a quand même 1880 rechargement accumulé la thématique 10 entre de marché"
+    },
+    {
+      "id": 332,
+      "start": 2599.56,
+      "end": 2604.96,
+      "text": "donc aucun concurrent c'est parfait là par exemple on a déjà d'autres parties après"
+    },
+    {
+      "id": 333,
+      "start": 2604.96,
+      "end": 2609.0,
+      "text": "si je lui demande mais ça on le fera en automatique encore une fois parce qu'on va regrouper"
+    },
+    {
+      "id": 334,
+      "start": 2609.0,
+      "end": 2617.52,
+      "text": "quand l'accès le blog tous nos clips pour avoir un planning du coup de publication"
+    },
+    {
+      "id": 335,
+      "start": 2617.52,
+      "end": 2643.04,
+      "text": "je poterais le dire le fait moi l'article en 2500 au stp je vais me réfléchir là il va du coup"
+    },
+    {
+      "id": 336,
+      "start": 2643.04,
+      "end": 2651.64,
+      "text": "il va lire les études de marché après il va les rétupérer à mon petit salat 6 et il va me rédiger"
+    },
+    {
+      "id": 337,
+      "start": 2651.64,
+      "end": 2662.05,
+      "text": "l'article avec les bombes ok il va nous permettre justement de l'oppositionner sur Google"
+    },
+    {
+      "id": 338,
+      "start": 2662.17,
+      "end": 2666.25,
+      "text": "je vais pas le faire parce que c'est pas le plus éthile maintenant parce qu'on va le voir par la suite"
+    },
+    {
+      "id": 339,
+      "start": 2666.25,
+      "end": 2673.93,
+      "text": "mais en tout cas voilà du coup comment faire un audit et une stratégie sio et geo rapidement"
+    },
+    {
+      "id": 340,
+      "start": 2673.93,
+      "end": 2679.37,
+      "text": "juste avec clott code et une apis gratuit donc je vous remercie pour cette séance j'espère"
+    },
+    {
+      "id": 341,
+      "start": 2679.37,
+      "end": 2682.33,
+      "text": "qu'elle vous a plu on se passe du coup à la suite à tout de suite"
+    }
+  ]
+}
