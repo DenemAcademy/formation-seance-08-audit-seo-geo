@@ -271,6 +271,9 @@ Structure : H1, introduction, H2/H3, exemples concrets, FAQ, CTA vers [SERVICE].
 <section id="section-78" class="support-section tone-4"><div class="wrap layout-table"><article class="text-card reveal"><div class="meta"><span class="badge num">78</span><span class="badge label">Récap et suite</span></div><h2>Je mesure avant de corriger</h2><p>Je change les contenus après données, pas après impression.</p></article><div class="reveal"><div class="table-wrap"><table><thead><tr><th>Point</th><th>Décision</th><th>Preuve</th></tr></thead><tbody><tr><td>Objectif</td><td>Créer une stratégie actionnable</td><td>Fichiers finaux</td></tr><tr><td>Contrôle</td><td>Vérifier le contexte</td><td>Captures et fichiers</td></tr><tr><td>Suite</td><td>Réutiliser dans le QG</td><td>Prompts copiables</td></tr></tbody></table></div></div></div></section>
 <section id="section-79" class="support-section tone-5"><div class="wrap layout-quote"><blockquote class="reveal"><span>79</span><p>Je préfère une méthode vérifiable à une bonne intention.</p></blockquote><article class="text-card reveal"><div class="meta"><span class="badge num">79</span><span class="badge label">Récap et suite</span></div><h2>Je peux vendre ce livrable</h2><p>Audit + stratégie + roadmap peut devenir une offre vendable.</p><div class="mini-grid"><article><b>À faire</b><p>Appliquer l’étape sans sauter le contrôle.</p></article><article><b>À vérifier</b><p>Le résultat doit être visible dans les fichiers ou l’outil.</p></article><article><b>À éviter</b><p>Produire du contenu sans contexte ni données.</p></article></div></article></div></section>
 <section id="section-80" class="support-section tone-1"><div class="wrap poster-layout"><div class="poster-copy reveal"><div class="meta"><span class="badge num">80</span><span class="badge label">Récap et suite</span></div><h2>Je passe à la production</h2><p>Le prochain sujet est le site et le blog, avec cette stratégie comme base.</p><div class="mini-grid"><article><b>À faire</b><p>Appliquer l’étape sans sauter le contrôle.</p></article><article><b>À vérifier</b><p>Le résultat doit être visible dans les fichiers ou l’outil.</p></article><article><b>À éviter</b><p>Produire du contenu sans contexte ni données.</p></article></div></div><div class="reveal"></div></div></section></main><footer class="footer"><div class="wrap"><p><strong>Séance 08 / 24.</strong> Support généré depuis la transcription complète de la vidéo, avec les captures de la séance, les prompts copiables et une structure pensée pour refaire l’audit étape par étape.</p></div></footer><script>const progress=document.getElementById('progress');const sections=[...document.querySelectorAll('.support-section')];const links=[...document.querySelectorAll('.links a')];function onScroll(){const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(scrollY/max*100)+'%';}addEventListener('scroll',onScroll,{passive:true});onScroll();const reveal=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')})},{threshold:.08,rootMargin:'0px 0px -40px 0px'});document.querySelectorAll('.reveal').forEach(el=>reveal.observe(el));const starts=[1,11,21,31,41,51,61,71];const active=new IntersectionObserver(entries=>{const visible=entries.filter(e=>e.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio)[0];if(!visible)return;const n=Number(visible.target.id.replace('section-',''));const start=starts.filter(x=>x<=n).pop()||1;links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')===`#section-${String(start).padStart(2,'0')}`));},{threshold:.2});sections.forEach(s=>active.observe(s));document.querySelectorAll('.prompt-panel').forEach(panel=>{const btn=panel.querySelector('.copy-btn');const code=panel.querySelector('code');btn?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(code.textContent);btn.textContent='Copié';btn.classList.add('copied');setTimeout(()=>{btn.textContent='Copier';btn.classList.remove('copied')},1400);}catch(e){btn.textContent='Copie impossible';}});});</script>
+
+
+
 <!-- DENEM visual system normalization -->
 <style id="denem-visual-system">
 :root {
@@ -314,6 +317,11 @@ header::before {
 main > section {
   background: var(--denem-paper) !important;
   background-image: none !important;
+}
+.reveal,
+.reveal.visible {
+  opacity: 1 !important;
+  transform: none !important;
 }
 .topbar,
 .top,
@@ -526,6 +534,8 @@ tbody tr:nth-child(even) td,
       return `<a href="#section-${label}">${label}</a>`;
     }).join('');
   }
+
+  document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible'));
 
   document.querySelectorAll('.stat, .hero-stats .stat, .stats .stat, .summary-card, .act').forEach(el => {
     if (/sections?\s+(guidées|guides|section)|sections?\s*\d+|\d+\s*sections?/i.test(el.textContent || '')) {
