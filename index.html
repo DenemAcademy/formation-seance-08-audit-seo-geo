@@ -270,4 +270,281 @@ Utilise le cluster [CLUSTER_ID] et les mots-clés associés.
 Structure : H1, introduction, H2/H3, exemples concrets, FAQ, CTA vers [SERVICE].</code></pre></div></div></div></section>
 <section id="section-78" class="support-section tone-4"><div class="wrap layout-table"><article class="text-card reveal"><div class="meta"><span class="badge num">78</span><span class="badge label">Récap et suite</span></div><h2>Je mesure avant de corriger</h2><p>Je change les contenus après données, pas après impression.</p></article><div class="reveal"><div class="table-wrap"><table><thead><tr><th>Point</th><th>Décision</th><th>Preuve</th></tr></thead><tbody><tr><td>Objectif</td><td>Créer une stratégie actionnable</td><td>Fichiers finaux</td></tr><tr><td>Contrôle</td><td>Vérifier le contexte</td><td>Captures et fichiers</td></tr><tr><td>Suite</td><td>Réutiliser dans le QG</td><td>Prompts copiables</td></tr></tbody></table></div></div></div></section>
 <section id="section-79" class="support-section tone-5"><div class="wrap layout-quote"><blockquote class="reveal"><span>79</span><p>Je préfère une méthode vérifiable à une bonne intention.</p></blockquote><article class="text-card reveal"><div class="meta"><span class="badge num">79</span><span class="badge label">Récap et suite</span></div><h2>Je peux vendre ce livrable</h2><p>Audit + stratégie + roadmap peut devenir une offre vendable.</p><div class="mini-grid"><article><b>À faire</b><p>Appliquer l’étape sans sauter le contrôle.</p></article><article><b>À vérifier</b><p>Le résultat doit être visible dans les fichiers ou l’outil.</p></article><article><b>À éviter</b><p>Produire du contenu sans contexte ni données.</p></article></div></article></div></section>
-<section id="section-80" class="support-section tone-1"><div class="wrap poster-layout"><div class="poster-copy reveal"><div class="meta"><span class="badge num">80</span><span class="badge label">Récap et suite</span></div><h2>Je passe à la production</h2><p>Le prochain sujet est le site et le blog, avec cette stratégie comme base.</p><div class="mini-grid"><article><b>À faire</b><p>Appliquer l’étape sans sauter le contrôle.</p></article><article><b>À vérifier</b><p>Le résultat doit être visible dans les fichiers ou l’outil.</p></article><article><b>À éviter</b><p>Produire du contenu sans contexte ni données.</p></article></div></div><div class="reveal"></div></div></section></main><footer class="footer"><div class="wrap"><p><strong>Séance 08 / 24.</strong> Support généré depuis la transcription complète de la vidéo, avec les captures de la séance, les prompts copiables et une structure pensée pour refaire l’audit étape par étape.</p></div></footer><script>const progress=document.getElementById('progress');const sections=[...document.querySelectorAll('.support-section')];const links=[...document.querySelectorAll('.links a')];function onScroll(){const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(scrollY/max*100)+'%';}addEventListener('scroll',onScroll,{passive:true});onScroll();const reveal=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')})},{threshold:.08,rootMargin:'0px 0px -40px 0px'});document.querySelectorAll('.reveal').forEach(el=>reveal.observe(el));const starts=[1,11,21,31,41,51,61,71];const active=new IntersectionObserver(entries=>{const visible=entries.filter(e=>e.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio)[0];if(!visible)return;const n=Number(visible.target.id.replace('section-',''));const start=starts.filter(x=>x<=n).pop()||1;links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')===`#section-${String(start).padStart(2,'0')}`));},{threshold:.2});sections.forEach(s=>active.observe(s));document.querySelectorAll('.prompt-panel').forEach(panel=>{const btn=panel.querySelector('.copy-btn');const code=panel.querySelector('code');btn?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(code.textContent);btn.textContent='Copié';btn.classList.add('copied');setTimeout(()=>{btn.textContent='Copier';btn.classList.remove('copied')},1400);}catch(e){btn.textContent='Copie impossible';}});});</script></body></html>
+<section id="section-80" class="support-section tone-1"><div class="wrap poster-layout"><div class="poster-copy reveal"><div class="meta"><span class="badge num">80</span><span class="badge label">Récap et suite</span></div><h2>Je passe à la production</h2><p>Le prochain sujet est le site et le blog, avec cette stratégie comme base.</p><div class="mini-grid"><article><b>À faire</b><p>Appliquer l’étape sans sauter le contrôle.</p></article><article><b>À vérifier</b><p>Le résultat doit être visible dans les fichiers ou l’outil.</p></article><article><b>À éviter</b><p>Produire du contenu sans contexte ni données.</p></article></div></div><div class="reveal"></div></div></section></main><footer class="footer"><div class="wrap"><p><strong>Séance 08 / 24.</strong> Support généré depuis la transcription complète de la vidéo, avec les captures de la séance, les prompts copiables et une structure pensée pour refaire l’audit étape par étape.</p></div></footer><script>const progress=document.getElementById('progress');const sections=[...document.querySelectorAll('.support-section')];const links=[...document.querySelectorAll('.links a')];function onScroll(){const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(scrollY/max*100)+'%';}addEventListener('scroll',onScroll,{passive:true});onScroll();const reveal=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')})},{threshold:.08,rootMargin:'0px 0px -40px 0px'});document.querySelectorAll('.reveal').forEach(el=>reveal.observe(el));const starts=[1,11,21,31,41,51,61,71];const active=new IntersectionObserver(entries=>{const visible=entries.filter(e=>e.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio)[0];if(!visible)return;const n=Number(visible.target.id.replace('section-',''));const start=starts.filter(x=>x<=n).pop()||1;links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')===`#section-${String(start).padStart(2,'0')}`));},{threshold:.2});sections.forEach(s=>active.observe(s));document.querySelectorAll('.prompt-panel').forEach(panel=>{const btn=panel.querySelector('.copy-btn');const code=panel.querySelector('code');btn?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(code.textContent);btn.textContent='Copié';btn.classList.add('copied');setTimeout(()=>{btn.textContent='Copier';btn.classList.remove('copied')},1400);}catch(e){btn.textContent='Copie impossible';}});});</script>
+<!-- DENEM visual system normalization -->
+<style id="denem-visual-system">
+:root {
+  --denem-accent: #F97316;
+  --denem-ink: #111827;
+  --denem-paper: #ffffff;
+  --denem-shadow: 5px 5px 0 #111827;
+  --denem-shadow-sm: 3px 3px 0 #111827;
+}
+html { background: var(--denem-paper) !important; }
+body {
+  background: var(--denem-paper) !important;
+  color: var(--denem-ink) !important;
+  letter-spacing: 0 !important;
+}
+body::before,
+body::after,
+.hero::before,
+.hero-main::before,
+header::before {
+  background-image: none !important;
+}
+.hero,
+.hero-main,
+.summary,
+.lesson,
+.support-section,
+.section,
+.tone-white,
+.tone-ice,
+.tone-soft,
+.tone-signal,
+.tone-dark,
+.tone-blue,
+.tone-dark,
+.tone-1,
+.tone-2,
+.tone-3,
+.tone-4,
+.tone-5,
+main > section {
+  background: var(--denem-paper) !important;
+  background-image: none !important;
+}
+.topbar,
+.top,
+nav.top,
+header.topbar {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 100 !important;
+  background: rgba(255,255,255,.96) !important;
+  border-bottom: 2px solid var(--denem-ink) !important;
+  backdrop-filter: blur(12px) !important;
+}
+.top-inner,
+.nav,
+.nav-inner,
+.top .nav,
+.topbar .top-inner {
+  background: transparent !important;
+}
+.brand small,
+.brand-subtitle,
+.brand .subtitle,
+.brand span small {
+  color: var(--denem-accent) !important;
+}
+.nav,
+.links {
+  display: flex !important;
+  gap: 8px !important;
+  overflow-x: auto !important;
+  max-width: 100% !important;
+  scrollbar-width: thin;
+}
+.nav a,
+.links a,
+.hero-actions a,
+.summary-card,
+.act,
+.badge,
+.eyebrow,
+.meta span,
+.num,
+.copy-btn,
+.copy,
+button.copy,
+.btn {
+  border: 2px solid var(--denem-ink) !important;
+  box-shadow: var(--denem-shadow-sm) !important;
+  border-radius: 0 !important;
+}
+.nav a,
+.links a {
+  background: #fff !important;
+  color: var(--denem-ink) !important;
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace !important;
+  font-weight: 900 !important;
+  text-transform: uppercase !important;
+  letter-spacing: .08em !important;
+  padding: 8px 10px !important;
+  white-space: nowrap !important;
+  text-decoration: none !important;
+}
+.nav a.active,
+.nav a:hover,
+.links a.active,
+.links a:hover,
+.hero-actions a:first-child,
+.num,
+.eyebrow,
+.badge.num,
+.meta .num {
+  background: var(--denem-accent) !important;
+  color: #fff !important;
+}
+.progress,
+.progress span,
+#progress,
+.progress-bar {
+  background: var(--denem-accent) !important;
+}
+h1 span,
+h2 span,
+.accent,
+.gradient-text {
+  color: var(--denem-accent) !important;
+  -webkit-text-fill-color: currentColor !important;
+  background: none !important;
+}
+.copy,
+.text-card,
+.poster-copy,
+.note,
+.final-box,
+.story-main,
+.section-head,
+.check-copy,
+.compare-copy,
+.quote-detail,
+.prompt-copy,
+.prompt-wide-copy,
+.image-copy,
+.opener-copy,
+.card,
+.card-grid article,
+.summary-card,
+.act,
+.media-card,
+.shot,
+.table-wrap,
+.compare,
+.diagnostic,
+.prompt-card,
+.prompt-panel,
+.code-panel {
+  border-color: var(--denem-ink) !important;
+  box-shadow: var(--denem-shadow) !important;
+  border-radius: 0 !important;
+}
+.card-grid article,
+.summary-card,
+.act,
+.copy,
+.text-card,
+.poster-copy,
+.note,
+.final-box,
+.story-main,
+.section-head,
+.check-copy,
+.compare-copy,
+.quote-detail,
+.prompt-copy,
+.prompt-wide-copy,
+.image-copy,
+.opener-copy,
+.media-card,
+.shot,
+.table-wrap,
+.compare {
+  background: #fff !important;
+}
+.prompt-card,
+.prompt-panel,
+.code-panel,
+blockquote {
+  background: var(--denem-ink) !important;
+  color: #fff !important;
+}
+.prompt-head,
+.prompt-panel .prompt-head {
+  background: #0b1220 !important;
+  border-bottom: 2px solid rgba(255,255,255,.18) !important;
+}
+.prompt-head span,
+.prompt-panel .prompt-head span,
+.card-grid b,
+.note b,
+.diagnostic b,
+.summary-card b,
+.act p:first-child {
+  color: var(--denem-accent) !important;
+}
+th,
+.data-table th,
+.compare th {
+  background: var(--denem-accent) !important;
+  color: #fff !important;
+}
+tbody tr:nth-child(even) td,
+.card-grid article:nth-child(2),
+.card-grid article:nth-child(3),
+.check-list li:nth-child(2n),
+.check-list li:nth-child(3n),
+.timeline div:nth-child(2),
+.timeline div:nth-child(3),
+.summary-card:nth-child(odd),
+.act:nth-child(odd),
+.act:nth-child(3n) {
+  background: #fff !important;
+}
+.stat,
+.hero-stats,
+.stats {
+  background: #fff !important;
+}
+@media (max-width: 700px) {
+  .nav a,
+  .links a {
+    font-size: 10px !important;
+    padding: 7px 9px !important;
+  }
+}
+</style>
+<script id="denem-visual-system-script">
+(function () {
+  const sections = Array.from(document.querySelectorAll('[id^="section-"]'))
+    .map(section => {
+      const match = section.id.match(/section-(\d+)/);
+      return match ? Number(match[1]) : null;
+    })
+    .filter(Number.isFinite)
+    .sort((a, b) => a - b);
+
+  const unique = Array.from(new Set(sections));
+  const nav = document.querySelector('.topbar .nav, .top .links, .top .nav, nav.nav, .links, .nav');
+  if (nav && unique.length) {
+    nav.setAttribute('aria-label', 'Navigation sections');
+    nav.innerHTML = unique.map(n => {
+      const label = String(n).padStart(2, '0');
+      return `<a href="#section-${label}">${label}</a>`;
+    }).join('');
+  }
+
+  document.querySelectorAll('.stat, .hero-stats .stat, .stats .stat, .summary-card, .act').forEach(el => {
+    if (/sections?\s+(guidées|guides|section)|sections?\s*\d+|\d+\s*sections?/i.test(el.textContent || '')) {
+      el.remove();
+    }
+  });
+
+  const setActive = () => {
+    let current = unique[0] ? `section-${String(unique[0]).padStart(2, '0')}` : '';
+    for (const section of document.querySelectorAll('[id^="section-"]')) {
+      if (section.getBoundingClientRect().top < 150) current = section.id;
+    }
+    document.querySelectorAll('.nav a, .links a').forEach(a => {
+      a.classList.toggle('active', a.getAttribute('href') === `#${current}`);
+    });
+  };
+  addEventListener('scroll', setActive, { passive: true });
+  setActive();
+})();
+</script>
+
+</body></html>
